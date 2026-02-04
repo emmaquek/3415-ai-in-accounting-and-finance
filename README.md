@@ -1,1 +1,1 @@
-#3415-ai-in-accounting-and-finance
+# 3415-ai-in-accounting-and-finance
