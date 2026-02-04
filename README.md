@@ -1,1 +1,1 @@
-# 2025-S2-3415-Monday
+#3415-ai-in-accounting-and-finance
